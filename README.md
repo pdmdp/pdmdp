@@ -9,7 +9,7 @@ I'm interested in information retrieval, natural language processing and how we 
 | Project | What I worked on |
 | :--- | :--- |
 | [FinAlign](https://github.com/pdmdp/FinAlign) | Financial document retrieval: BM25, BGE, query expansion with Qwen and monoT5 re-ranking on FiQA. |
-| [Formula 1 on Bluesky](https://github.com/pdmdp/bluesky-f1-analysis) | Interaction networks, community detection and sentiment evaluation, including a blind annotation check. |
+| [Formula 1 on Bluesky](https://github.com/pdmdp/bluesky-f1-analysis) · [Demo](https://pdmdp.github.io/bluesky-f1-analysis/) | Interaction networks, community detection and sentiment evaluation, including a blind annotation check. |
 | [Wilson–Cowan dynamics](https://github.com/pdmdp/wilson-cowan-dynamics) | Excitatory/inhibitory population dynamics, fixed-point stability, noise and input-gated memory. |
 | [Migraine treatment response](https://github.com/pdmdp/migraine-treatment-analysis) | Task 2: pooled logistic regression and longitudinal mixed-effects models in R, with synthetic execution checks. |
 | [Hotel review regression](https://github.com/pdmdp/Deep-Learning-Hotel-Review-Regression-Project) | A bidirectional LSTM combining review text with structured features. |
