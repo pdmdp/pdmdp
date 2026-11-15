@@ -1,6 +1,6 @@
 # Matteo Pietro Di Pilato
 
-BSc in Artificial Intelligence — Universities of Pavia, Milan and Milano-Bicocca.
+Artificial Intelligence graduate (BSc, 2026) — Universities of Pavia, Milan and Milano-Bicocca.
 
 I'm interested in information retrieval, natural language processing and how we evaluate machine-learning systems. My projects range from neural search and social-text analysis to dynamical models and applied prediction.
 
